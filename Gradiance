@@ -1,0 +1,33 @@
+<html>
+
+<head>
+
+    <style>
+        #grad1 {
+
+            height: 400px;
+
+            background: linear-gradient(to top right, red, orange, yellow, green, blue, purple);
+        }
+    </style>
+
+<body>
+
+    <div id="grad1">
+
+
+    </div>
+
+    <font color="aqua">Hello Wolrd! :)<br><br><br>
+
+        <p>
+
+    </font>
+
+    </p>
+
+</body>
+
+</head>
+
+</html>
